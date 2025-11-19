@@ -1,0 +1,13 @@
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\bin\Debug\Expert_System_Diagnosa_Penyakit.exe.config
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\bin\Debug\Expert_System_Diagnosa_Penyakit.exe
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\bin\Debug\Expert_System_Diagnosa_Penyakit.pdb
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\bin\Debug\Expert_System_Diagnosa_Penyakit.xml
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.vbproj.AssemblyReference.cache
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.Form1.resources
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.Resources.resources
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.vbproj.GenerateResource.cache
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.exe
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.xml
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.pdb
+C:\Users\Lenovo T14\Documents\Collage\Semester 3\AI\code\Expert_System_Diagnosa_Penyakit\obj\Debug\Expert_System_Diagnosa_Penyakit.exe.config
