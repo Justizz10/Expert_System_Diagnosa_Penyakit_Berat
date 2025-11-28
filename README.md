@@ -43,7 +43,7 @@ Proyek ini adalah aplikasi desktop berbasis Windows Forms.
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [URL_REPOSITORI_ANDA]
+    git clone [https://github.com/Justizz10/Expert_System_Diagnosa_Penyakit_Berat/tree/main/Expert_System_Diagnosa_Penyakit]
     ```
 2.  **Buka di IDE:** Buka folder proyek di Visual Studio.
 3.  [cite_start]**Jalankan:** Jalankan proyek (biasanya dengan menekan F5 atau tombol "Start")[cite: 43].
